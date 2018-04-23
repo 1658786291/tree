@@ -15,7 +15,7 @@
 @implementation ViewController
 - (IBAction)btn:(UIButton *)sender {
     
-    NSLog(@"点击啦123");
+    NSLog(@"点击啦123444");
 //    NSURL *url = [NSURL URLWithString:@"ChengShangGou://test"];
 //    if ([url.host isEqualToString:@"test"])
 //    {
